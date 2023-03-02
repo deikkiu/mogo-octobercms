@@ -18,7 +18,7 @@ October's mission is to show the world that web development is not rocket scienc
 ```
 2. Write the command below and clone git repo
 ```
-    git clone --depth 1 --branch v1.1.9 https://github.com/octobercms/october.git
+    git clone git@github.com:deikkiu/mogo-octobercms.git
 ```
 3. Install the necessary packages and settings
 ```
